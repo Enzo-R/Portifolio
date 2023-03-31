@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.header{
+    border: 2px solid rgb(210, 30, 42);
+    background-color: rgb(228, 250, 242);
+    height: 50px;
+
+}
+.home{
+
+    width: 1140px;
+    height: 720px;
+    margin: 5px auto ;
+    background-color: rgb(228, 250, 242);
+
+}
+.F_home{
+    margin: 5px 15px;
+    float: left;
+
+}
+.inline{
+    display: inline;
+}
+#Profile{
+    border: 2px solid chocolate;
+    text-align: center;
+}
+#Description{
+    border: 2px solid chocolate;
+    width: 715px; 
+    display: inline;
+   
+}
+#Tech{
+    border: 2px solid rgb(144, 210, 30);
+    clear: both;
+}
